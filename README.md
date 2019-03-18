@@ -1,6 +1,6 @@
 # 咵一咵湖北话
 
 
-## 正字
+## 湖北话百科
 
-https://zhuanlan.zhihu.com/p/58772599
+https://github.com/yuxifongfei/hubehua/wiki

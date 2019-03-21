@@ -1,0 +1,11 @@
+
+git lfs install           //安装lfs
+ 
+ 
+git lfs track "*.pdf"     //使用lfs跟踪需要管理的大文件，也可以直接编辑.gitattributes文件
+ 
+ 
+//然后走常规流程
+git add yourLargeFile.pdf 
+ 
+git commit -m "Add Large file

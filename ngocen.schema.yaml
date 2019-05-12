@@ -70,7 +70,9 @@ speller:
 
 #容錯（變體類型）
     - derive/([gkhdtlnzcs])o/$1uo/# 模糊uo/o
+    - xform/nguo/ngo/# 模糊uo/o
     - xform/([gkhdtlnzcs])uou/$1ou/# 模糊uo/o
+    - xform/([gkhdtlnzcs])uong/$1ong/# 模糊uo/o
     - derive/e([1|2|3|4|5])/ei/
     - derive/e6/ai/
     - derive/wong/ngong/

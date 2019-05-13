@@ -4623,15 +4623,17 @@ use_preset_vocabulary: true
 六下子	lou2 ha4 zi3
 七下子	qi2 ha4 zi3
 八下子	ba2 ha4 zi3
-一下	yi2 ha4 zi3
-幾下	ji3 ha4 zi3
-兩下	liang3 ha4 zi3
-三下	san1 ha4 zi3
-四下	si4 ha4 zi3
-五下	wu3 ha4 zi3
-六下	lou2 ha4 zi3
-七下	qi2 ha4 zi3
-八下	ba2 ha4 zi3
+一下	yi2 ha4
+幾下	ji3 ha4
+兩下	liang3 ha4
+三下	san1 ha4
+四下	si4 ha4
+五下	wu3 ha4
+六下	lou2 ha4
+七下	qi2 ha4
+八下	ba2 ha4
+九下	jiu3 ha4
+十下	si2 ha4
 夏	xia4
 嚇	he2
 瞎	xia2
@@ -6733,7 +6735,8 @@ use_preset_vocabulary: true
 憷	cou3
 蜍	qv2
 櫉	qv2
-處	qv4
+處	qv4	2
+處	qv3
 䖏	qv3
 詘	qv2
 書	xv1

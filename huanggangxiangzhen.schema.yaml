@@ -68,10 +68,6 @@ speller:
 #黃孝ei——i
 
 #容錯（變體類型）
-    - derive/([gkhdtlnzcs])o/$1uo/# 模糊uo/o
-    - xform/nguo/ngo/# 模糊uo/o
-    - xform/([gkhdtlnzcs])uou/$1ou/# 模糊uo/o
-    - xform/([gkhdtlnzcs])uong/$1ong/# 模糊uo/o
     - derive/re/rve/
     - xform/rang/rvang/
     - derive/fong/hong/
@@ -82,7 +78,9 @@ speller:
     - derive/hong/fong/
     - derive/([zcs])h/$1/# 模糊平翘
     - derive/([gkhdtlnzcs])o/$1uo/# 模糊uo/o
+    - xform/nguo/ngo/# 模糊uo/o
     - xform/([gkhdtlnzcs])uou/$1ou/# 模糊uo/o
+    - xform/([gkhdtlnzcs])uong/$1ong/# 模糊uo/o
     - derive/jv/zhv/
     - derive/qv/chv/
     - derive/xv/shv/

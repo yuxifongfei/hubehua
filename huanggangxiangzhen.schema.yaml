@@ -101,6 +101,11 @@ speller:
 #容錯（變體類型）
     - derive/([123456~])//#忽略声调
 
+#容錯（鍵盤類型）
+    - derive/ng/mg/
+    - derive/ng/bg/
+
+
 translator:
   dictionary: huanggang
   spelling_hints: 5

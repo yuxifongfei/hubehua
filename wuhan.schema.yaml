@@ -84,6 +84,11 @@ speller:
 #容錯（變體類型）
     - derive/([1234~])//#忽略声调
 
+
+#容錯（鍵盤類型）
+    - derive/ng/mg/
+    - derive/ng/bg/
+
 translator:
   dictionary: wuhan
   spelling_hints: 5

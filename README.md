@@ -1,5 +1,4 @@
-# 咵一咵湖北话
-## [湖北话百科](https://github.com/yuxifongfei/hubehua/wiki)
+# [湖北话百科](https://github.com/yuxifongfei/hubehua/wiki)
 ## [输入法](https://github.com/yuxifongfei/hubehua/wiki#%E8%BE%93%E5%85%A5%E6%B3%95)
 使用[Rime](https://rime.im/)来输入，[具体教程](https://laubonghaudoi.github.io/dialects/)
 ### [拼音方案](https://github.com/yuxifongfei/hubehua/wiki#%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88)

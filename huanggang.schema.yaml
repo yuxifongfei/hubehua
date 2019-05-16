@@ -86,7 +86,6 @@ speller:
     - derive/wong/ngong/
     - derive/^ng//
     - derive/ko6/kue/
-    - derive/ong/ung/
     - derive/ou/eu/
     - derive/vi/vei/
     - derive/v/u/
@@ -98,6 +97,12 @@ speller:
 #容錯（鍵盤類型）
     - derive/ng/mg/
     - derive/ng/bg/
+    - derive/en/eng/
+    - derive/en/em/
+    - derive/en/eb/
+    - derive/in/im/
+    - derive/in/ib/
+    - derive/in/ing/
 
 
 translator:

@@ -76,7 +76,6 @@ speller:
     - derive/ngo/wo/
     - derive/wong/ngong/
     - derive/^ng//
-    - derive/ong/ung/
     - derive/er/e/
     - derive/vi/vei/
     - derive/v/u/
@@ -88,6 +87,12 @@ speller:
 #容錯（鍵盤類型）
     - derive/ng/mg/
     - derive/ng/bg/
+    - derive/en/eng/
+    - derive/en/em/
+    - derive/en/eb/
+    - derive/in/im/
+    - derive/in/ib/
+    - derive/in/ing/
 
 translator:
   dictionary: wuhan

@@ -8,9 +8,11 @@ import_tables:
 - hubehua
 ...
 
+縊	yi6
 狒	fu6
 沸	fu6
 	#多音部分
+重做	cong2 zou4
 個別	go4 bie6
 個人	go4 ngen2
 個中	go4 zong1
@@ -148,8 +150,8 @@ import_tables:
 磨盤	mo5 pan2	
 磨石	mo5 si6	
 磨子	mo5 zi3	
-姥媽	mu3 ma1	
-穆棱	mu6 lin2	
+姥媽	mong3 ma1	
+穆棱	mong6 lin2	
 呢喃	ni2 lan2	
 銀行	nin2 hang2	
 銀行	yin2 hang2	
@@ -375,7 +377,7 @@ import_tables:
 差人	cai1 ngen2	
 差使	cai1 si3	
 差事	cai1 si5
-朝暮	zao1 mu5	
+朝暮	zao1 mong5	
 朝日	zao1 er6
 朝陽	zao1 yang2	
 嘲哳	zao1 za1	
@@ -668,7 +670,7 @@ import_tables:
 百載	be6 zai3	
 半載	ban4 zai3	
 曾氏	zen1 si4	
-朝歌暮樂	zao1 go1 mu5 yo6	
+朝歌暮樂	zao1 go1 mong5 yo6	
 潮樂	cao2 yo6	
 吹樂器	qvi1 yo6 qi4	
 粗樂	cou1 yo6	
@@ -865,7 +867,7 @@ import_tables:
 長了	cang2 le
 長了	zang3 liao3
 長了	zang3 le
-彈幕	dan5 mu5
+彈幕	dan5 mong5
 搋	qvai1
 戯	xi4
 歙	xi6
@@ -954,7 +956,7 @@ import_tables:
 襆	pu6
 嘸	fu3
 驀	mo6
-霂	mu6
+霂	mong6
 涂	tou2
 荼	tou2
 芏	dou5
@@ -1641,12 +1643,12 @@ import_tables:
 饃	mo2
 寞	mo6
 蘑	mo2
-歿	mu6
+歿	mong6
 嬤	mo2
 摹	mo2
-沒	mu6
+沒	mong6
 沒	mo6
-沒有	mu6 you3
+沒有	mong6 you3
 沒有	mo6 you3
 麼	mo3	1000000
 拍	pe6
@@ -2002,26 +2004,26 @@ import_tables:
 蜢	mong3
 蜢子	mong3 zi
 幪	mong2
-木	mu6
-母	mu3
-目	mu6
-姆	mu3
-穆	mu6
-睦	mu6
-慕	mu5
-墓	mu5
-幕	mu4
+木	mong6
+母	mong3
+目	mong6
+姆	mong3
+穆	mong6
+睦	mong6
+慕	mong5
+墓	mong5
+幕	mong4
 萌	mong2
-牧	mu6
-沐	mu6
-畝	mu3
-暮	mu5
-募	mu5
-拇	mu3
+牧	mong6
+沐	mong6
+畝	mong3
+暮	mong5
+募	mong5
+拇	mong3
 牡	mou3
-鉬	mu6
-穆	mu3
-幕	mu5
+鉬	mong6
+穆	mong3
+幕	mong5
 風	fong1
 封	fong1
 峰	fong1
@@ -4221,7 +4223,7 @@ import_tables:
 噓	xv1
 蓄	xiu6
 畜	xiu6	2
-畜牧	xiu6 mu6
+畜牧	xiu6 mong6
 畜產	xiu6 can3
 蓄養	xiu6 yang3
 栩	xv3
@@ -7448,13 +7450,13 @@ import_tables:
 朝	zao1	2
 朝陽	zao1 yang2
 朝暉	zao1 hui1
-朝暮	zao1 mu5
+朝暮	zao1 mong5
 朝霞	zao1 xia2
 朝氣	zao1 qi4
 朝氣蓬勃	zao1 qi4 pong2 pu6
-朝思暮想	zao1 si1 mu5 xiang3
+朝思暮想	zao1 si1 mong5 xiang3
 朝令夕改	zao1 lin5 xi6 gai3
-朝秦暮楚	zao1 qin2 mu5 cou3
+朝秦暮楚	zao1 qin2 mong5 cou3
 今朝	jin1 zao1
 明朝	min2 zao1
 朝	cao2
@@ -8381,7 +8383,7 @@ import_tables:
 二重奏	er5 cong2 zou4	
 二重性	er5 cong2 xin4	
 二重根	er5 cong2 gen1	
-二重母音	er5 cong2 mu3 yin1	
+二重母音	er5 cong2 mong3 yin1	
 兩重人格	liang3 cong2 ngen2 ge6
 兩重親	liang3 cong2 qin1	
 八重奏	ba6 cong2 zou4	
@@ -8513,7 +8515,7 @@ import_tables:
 重現江湖	cong2 xian5 jiang1 hu2
 重環紋	cong2 huan2 wen2
 重瓣胃	cong2 ban5 wei5
-重生父母	cong2 sen1 fu5 mu3
+重生父母	cong2 sen1 fu5 mong3
 重生爺娘	cong2 sen1 ye2 niang2
 重眼皮	cong2 yan3 pi2
 重碳酸鈣	cong2 tan4 san1 gai4
@@ -8552,7 +8554,7 @@ import_tables:
 重設	cong2 se6	
 重評	cong2 pin2	
 重譯	cong2 yi6	
-重足側目	cong2 zou6 ce6 mu6	
+重足側目	cong2 zou6 ce6 mong6	
 重足而立	cong2 zou6 er2 li6	
 重趼	cong2 jian3	
 重蹈	cong2 dao5	
@@ -8571,7 +8573,7 @@ import_tables:
 重阻	cong2 zou3	
 重陰	cong2 yin1	
 重陽日	cong2 yang2 er6
-重陽木	cong2 yang2 mu6	
+重陽木	cong2 yang2 mong6	
 重陽節	cong2 yang2 jie6
 重霤	cong2 liu5
 鋼琴二重奏	gang1 qin2 er5 cong2 zou4	
@@ -9046,8 +9048,8 @@ import_tables:
 啞子	nga4 zi
 啞子	ya3 zi
 酵	gao4	2
-酵母	gao4 mu3
-酵母	jiao4 mu3
+酵母	gao4 mong3
+酵母	jiao4 mong3
 點	die3	2
 有點	you3 die3
 有點	you3 dian3
@@ -9483,34 +9485,6 @@ import_tables:
 妍	nian3
 就業	jiu5 nie6
 重操舊業	cong2 cao1 jiu5 nie6
-姥媽	mong3 ma1	
-穆棱	mong6 lin2	
-朝暮	zao1 mong5	
-朝歌暮樂	zao1 go1 mong5 yo6	
-彈幕	dan5 mong5
-霂	mong6
-歿	mong6
-沒	mong6
-沒有	mong6 you3
-木	mong6
-母	mong3
-目	mong6
-姆	mong3
-穆	mong6
-睦	mong6
-慕	mong5
-墓	mong5
-幕	mong4
-牧	mong6
-沐	mong6
-畝	mong3
-暮	mong5
-募	mong5
-拇	mong3
-鉬	mong6
-穆	mong3
-幕	mong5
-畜牧	xiu6 mong6
 翼	yi4
 裔	yi4
 異	yi4
@@ -9529,16 +9503,7 @@ import_tables:
 傻比	sa3 bi3
 傻屄	sa3 bi1
 處	qv4
-朝暮	zao1 mong5
-朝思暮想	zao1 si1 mong5 xiang3
-朝秦暮楚	zao1 qin2 mong5 cou3
-二重母音	er5 cong2 mong3 yin1	
-重生父母	cong2 sen1 fu5 mong3
-重足側目	cong2 zou6 ce6 mong6	
-重陽木	cong2 yang2 mong6	
 唦	sa1	100000
-酵母	gao4 mong3
-酵母	jiao4 mong3
 嚴	nian2
 朝日	zao1 ri6
 刚儿	kang2 e

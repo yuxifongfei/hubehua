@@ -9,10 +9,8 @@
 
 [黄冈话](https://github.com/yuxifongfei/hubehua/wiki/%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88#%E9%BB%84%E5%86%88%E8%AF%9D)
 
-## [正字](https://github.com/yuxifongfei/hubehua/wiki#%E6%AD%A3%E5%AD%97)
-[鄂东官话正字](https://github.com/yuxifongfei/hubehua/wiki/%E9%84%82%E4%B8%9C%E5%AE%98%E8%AF%9D%E6%AD%A3%E5%AD%97)
-## [声调](https://github.com/yuxifongfei/hubehua/wiki#%E5%A3%B0%E8%B0%83)
-## [杂谈](https://github.com/yuxifongfei/hubehua/wiki#%E6%9D%82%E8%B0%88)
+## [鄂东官话正字](https://github.com/yuxifongfei/hubehua/wiki/%E9%84%82%E4%B8%9C%E5%AE%98%E8%AF%9D%E6%AD%A3%E5%AD%97)
+
 [猫的读音](https://github.com/yuxifongfei/hubehua/wiki/%E7%8C%AB%E7%9A%84%E8%AF%BB%E9%9F%B3)
 
 [角的异读](https://github.com/yuxifongfei/hubehua/wiki/%E3%80%8C%E8%A7%92%E3%80%8D%E7%9A%84%E5%BC%82%E8%AF%BB)

@@ -1144,6 +1144,7 @@ import_tables:
 确	qio2
 嶽	yo2
 掰	ban1
+掰	bai1
 襬	bai3
 脉	me2
 獃	dai1
@@ -6666,7 +6667,6 @@ import_tables:
 摔	suai1
 甩	suai3
 衰	suai1
-率	suai4
 蟀	suai4
 說	xve2
 追	jvi1
@@ -9563,6 +9563,23 @@ import_tables:
 率教	so2 jiao4
 率禮	so2 li3
 表率	biao3 so2
+率	suai4	2
+率領	suai4 lin3
+統率	tong3 suai4
+率隊	suai4 dei4
+率先	suai4 xian1
+率獸食人	suai4 sou4 si2 len2
+輕率	qin1 suai4
+草率	cao3 suai4
+率爾	suai4 er3
+率爾操觚	suai4 er3 cao1 gu2
+直率	zi2 suai4
+坦率	tan3 suai4
+率常	suai4 sang2
+大率	da4 suai4
+率教	suai4 jiao4
+率禮	suai4 li3
+表率	biao3 suai4
 豁	ho1
 說	sue2
 說	so2
@@ -9589,7 +9606,6 @@ import_tables:
 崖	ya2
 肴	xiao2
 削	xio1
-率	so2
 蟀	so2
 鬮	gou1
 粟	xiu2

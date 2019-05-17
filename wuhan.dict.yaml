@@ -307,8 +307,8 @@ import_tables:
 興致	xin4 zi4	
 興味	xin4 wei4
 助興	zou4 xin4	
-轉	zvan4	2
-轉動	zvan4 dong4	
+轉	zuan4	2
+轉動	zuan4 dong4	
 觸興	cou2 xin4	
 春興	qvn1 xin4	
 詩興	si1 xin4	
@@ -408,7 +408,7 @@ import_tables:
 變調	bian4 diao4	
 標調	biao1 diao4	
 內調	lei4 diao4	
-不轉	bu2 zvan4	
+不轉	bu2 zuan4	
 差旅	cai1 li3	
 差遣	cai1 qian3	
 差人	cai1 len2	
@@ -435,7 +435,7 @@ import_tables:
 打掉	da3 diao4	
 打工仔	da3 gong1 zai3	
 打仔	da3 zai3	
-打轉	da3 zvan4	
+打轉	da3 zuan4	
 大不應是	da4 bu2 yin4 si4	
 大調	da4 diao4	
 大夫	da4 fu1	
@@ -451,7 +451,7 @@ import_tables:
 㗖人	tao1 len2	
 倒數	dao4 sou3	
 痛處	tong4 qv4	
-團轉	tan2 zvan4	
+團轉	tan2 zuan4	
 外調	wai4 diao4	
 未雨綢繆	wei4 yv3 cou2 mou2	
 我處	ngo3 qv4	
@@ -481,15 +481,15 @@ import_tables:
 仔肉	zai3 lou2	
 炸彈	za4 dan4
 豬仔	jv1 zai3	
-轉燈	zvan4 den1	
-轉輪	zvan4 len2	
-轉磨	zvan4 mo4
-轉盤	zvan4 pan2	
-轉圈	zvan4 qvan1	
-轉軸	zvan4 zou2
-轉子	zvan4 zi3	
+轉燈	zuan4 den1	
+轉輪	zuan4 len2	
+轉磨	zuan4 mo4
+轉盤	zuan4 pan2	
+轉圈	zuan4 qvan1	
+轉軸	zuan4 zou2
+轉子	zuan4 zi3	
 子彈	zi3 dan4	
-自轉	zi4 zvan4	
+自轉	zi4 zuan4	
 走調	zou3 diao4	
 鑽牀	zan1 cuang2	
 鑽戒	zan4 gai4	
@@ -683,7 +683,7 @@ import_tables:
 聽天	tin4 tian1	
 聽政	tin4 zen4	
 聽事	tin4 si4	
-聽人穿鼻	tin4 len2 cvan1 bi2	
+聽人穿鼻	tin4 len2 cuan1 bi2	
 聽訟	tin4 song4	
 聽獄	tin4 yv2	
 僮族	zuang4 cou2		
@@ -864,7 +864,7 @@ import_tables:
 縕袍	yvn4 pao2	
 栽種	zai1 zong4	
 笮桥	zo2 qiao2	
-輾轉	zan3 zvan3	
+輾轉	zan3 zuan3	
 蓁椒	qin2 jiao1	
 枕藉	zen3 jie4	
 種德	zong4 de2	
@@ -882,16 +882,16 @@ import_tables:
 作樂	zo2 lo2	
 一間	yi2 gan1	
 一間	yi2 jian1	
-水滸傳	xvi3 hu3 zvan4	
-英雄傳	yin1 xiong2 zvan4	
-左傳	zo3 zvan4	
-經傳	jin1 zvan4	
-小傳	xiao3 zvan4	
-自傳	zi4 zvan4	
-紀傳	ji3 zvan4
-傳略	zvan4 lio2	
-傳舍	zvan4 se4	
-傳記	zvan4 ji4		
+水滸傳	xvi3 hu3 zuan4	
+英雄傳	yin1 xiong2 zuan4	
+左傳	zo3 zuan4	
+經傳	jin1 zuan4	
+小傳	xiao3 zuan4	
+自傳	zi4 zuan4	
+紀傳	ji3 zuan4
+傳略	zuan4 lio2	
+傳舍	zuan4 se4	
+傳記	zuan4 ji4		
 擱置	go2 zi4	
 擱淺	go2 qian3	
 欸	ngai1	2
@@ -6709,25 +6709,25 @@ import_tables:
 涓	jvan1
 鎸	jian1
 捲	jvan3
-轉	zvan3
-賺	zvan4
-專	zvan1
-傳	zvan4	2
-甎	zvan1
-撰	zvan4
-篆	zvan4
-饌	zvan4
-顓	zvan1
-囀	zvan4
-瑑	zvan4
+轉	zuan3
+賺	zuan4
+專	zuan1
+傳	zuan4	2
+甎	zuan1
+撰	zuan4
+篆	zuan4
+饌	zuan4
+顓	zuan1
+囀	zuan4
+瑑	zuan4
 漙	tan2
-堟	zvan4
-僎	zvan4
-襈	zvan4
-譔	zvan4
-磗	zvan1
-磚	zvan1
-巽	zvan4
+堟	zuan4
+僎	zuan4
+襈	zuan4
+譔	zuan4
+磗	zuan1
+磚	zuan1
+巽	zuan4
 全	qian2
 權	qvan2
 圈	qvan1
@@ -6748,18 +6748,18 @@ import_tables:
 痊	qian2
 踡	qvan2
 椦	qvan1
-穿	cvan1
-傳	cvan2
-川	cvan1
-船	cvan2
-串	cvan4
-喘	cvan3
-釧	cvan4
-椽	cvan2
-氚	cvan1
-舛	cvan3
-遄	cvan2
-玔	cvan4
+穿	cuan1
+傳	cuan2
+川	cuan1
+船	cuan2
+串	cuan4
+喘	cuan3
+釧	cuan4
+椽	cuan2
+氚	cuan1
+舛	cuan3
+遄	cuan2
+玔	cuan4
 選	xian3
 軒	xian1
 宣	xian1
@@ -6780,11 +6780,11 @@ import_tables:
 渲	xian4
 癬	xian3
 漩	xian2
-栓	svan1
-涮	svan4
-拴	svan1
-閂	svan1
-腨	svan4
+栓	suan1
+涮	suan4
+拴	suan1
+閂	suan1
+腨	suan4
 軍	jvn1
 均	jvn1
 君	jvn1
@@ -8028,7 +8028,7 @@ import_tables:
 年均增長率	lian2 jvn1 zen1 zang3 li2
 幹事長	gan4 si4 zang3
 店長	dian4 zang3
-庫克船長	ku4 ke2 cvan2 zang3
+庫克船長	ku4 ke2 cuan2 zang3
 庭長	tin2 zang3
 廚師長	qv2 si1 zang3
 廠長	cang3 zang3
@@ -8058,7 +8058,7 @@ import_tables:
 植物生長素	zi2 wu2 sen1 zang3 sou4
 機長	ji1 zang3
 次長	ci4 zang3
-水長船高	xvi3 zang3 cvan2 gao1
+水長船高	xvi3 zang3 cuan2 gao1
 冒得出長	mao4 de2 qv2 zang3
 冒長眼	mao4 zang3 yan3
 冒得長進	mao4 de2 zang3 jin4
@@ -8107,7 +8107,7 @@ import_tables:
 老道長	lao3 dao4 zang3
 耗子尾上長瘡	hao4 zi4 wei3 sang4 zang3 cuang1
 股長	gu3 zang3
-船長	cvan2 zang3
+船長	cuan2 zang3
 艦長	jian4 zang3
 色長	se2 zang3
 茁長	jve2 zang3

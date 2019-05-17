@@ -8,6 +8,7 @@ import_tables:
 - hubehua
 ...
 
+徼	jiao3
 縊	yi2
 狒	fu2
 沸	fu2
@@ -114,8 +115,8 @@ import_tables:
 好高務遠	hao4 gao1 wu4 yvan3	
 好謀善斷	hao4 mou2 san3 dan4	
 好奇	hao4 qi2	
-好耍	hao4 xva3	
-好耍	hao3 xva3	
+好耍	hao4 sua3	
+好耍	hao3 sua3	
 好爲人師	hao4 wei2 len2 si1	
 核核	hu2 hu2
 回鶻	hui2 hu2
@@ -6058,7 +6059,7 @@ import_tables:
 噲	kuai4
 鱠	kuai4
 獪	kuai4
-駃	jva2
+駃	zua2
 坏	huai4
 懷	huai2
 淮	huai2
@@ -6654,10 +6655,10 @@ import_tables:
 倏	sou2
 菽	sou2
 沭	xv2
-抓	jva1
-刷	xva2
-耍	xva3
-唰	xva2
+抓	zua1
+刷	sua2
+耍	sua3
+唰	sua2
 拽	jvai4
 踹	qvai4
 揣	qvai3
@@ -6986,7 +6987,7 @@ import_tables:
 斫	zo2
 涿	zo2
 浞	zo2
-茁	jva2
+茁	zua2
 茁	jve2
 禚	zo2
 焯	zo2
@@ -7473,6 +7474,7 @@ import_tables:
 兆	sao4
 昭	zao1
 爪	zao3
+爪	zua3
 召	zao4
 召	sao4	2
 着	zo2
@@ -8109,7 +8111,7 @@ import_tables:
 艦長	jian4 zang3
 色長	se2 zang3
 茁長	jve2 zang3
-茁長	jva2 zang3
+茁長	zua2 zang3
 草是年年長	cao3 si4 lian2 lian2 zang3
 草長鶯飛	cao3 zang3 yin1 fei1
 董事長	dong3 si4 zang3
@@ -9370,8 +9372,8 @@ import_tables:
 濯	zo2	7000
 𡎺	zou2	7000
 𡎺倒		10000
-浞	jva2	7000
-啄	jva2
+浞	zua2	7000
+啄	zua2
 䐱	jvai3
 裝水	zuang4 xvi3
 裝	zuang4	2
@@ -9576,7 +9578,7 @@ import_tables:
 薄	po2
 靶	ba2
 髓	xi2
-髓	xv3
+遂	xv4
 遂	xi4
 隧	xi4
 燧	xi4

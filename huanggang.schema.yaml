@@ -97,12 +97,14 @@ speller:
 #容錯（鍵盤類型）
     - derive/ng/mg/
     - derive/ng/bg/
-    - derive/en/eng/
     - derive/en/em/
     - derive/en/eb/
     - derive/in/im/
     - derive/in/ib/
-    - derive/in/ing/
+    - derive/un/um/
+    - derive/un/ub/
+    - derive/vn/vm/
+    - derive/vn/vb/
 
 
 translator:

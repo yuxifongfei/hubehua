@@ -68,7 +68,7 @@ speller:
 
 #容錯（變體類型）
     - derive/re/rve/
-    - xform/rang/rvang/
+    - derive/rang/rvang/
     - derive/fong/hong/
     - derive/^hong/fong/
     - derive/^hu([12345])/fu/
@@ -111,7 +111,7 @@ speller:
 
 
 translator:
-  dictionary: huanggang
+  dictionary: huangxiao
   spelling_hints: 5
   comment_format:
     - xform/Kbei/bei/

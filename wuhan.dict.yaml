@@ -5455,7 +5455,6 @@ import_tables:
 今	jin1
 僅	jin3
 緊	jin3
-儘	jin3
 勁	jin4
 禁	jin4
 津	jin1
@@ -9011,10 +9010,6 @@ import_tables:
 特地	tie2 di4
 敞	ca3	2
 敞開	ca3 kai1
-嚙	nge4
-噍	jiao4
-唊	jia2
-羾	gong4
 敲門	kao1 men2
 敲開	kao1 kai1
 麼事	mo3 si	1000000
@@ -9148,6 +9143,7 @@ import_tables:
 裸	go3	10000
 聒	go2	10000
 羾	gong4	10000
+嚙	nge5	10000
 瘕	ha1	10000
 搳	ha1	10000
 傻	ha3	2
@@ -9193,6 +9189,7 @@ import_tables:
 㽱	jiao1
 噍	jiao4	10000
 儘	jin3	10000
+儘唊		10000
 糾	jiu3	2
 日姐姐	er2 jie3 jie3
 糾緊	jiu3 jin3

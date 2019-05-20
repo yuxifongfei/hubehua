@@ -56,6 +56,7 @@ speller:
     - xform/([zcs])h/$1/
     - derive/re/nge/#熱惹兩字
     - xform/re/yve/
+    - xform/yven/ngen/
     - xform/rv/yv/
     - xform/^r/ng/
     - xform/ngi/ri/

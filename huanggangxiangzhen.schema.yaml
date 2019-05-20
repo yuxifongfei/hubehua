@@ -112,6 +112,7 @@ speller:
 
 translator:
   dictionary: huangxiao
+  prism: huanggangxiangzhen
   spelling_hints: 5
   comment_format:
     - xform/Kbei/bei/

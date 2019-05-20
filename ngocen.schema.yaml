@@ -4,7 +4,7 @@
 schema:
   schema_id: ngocen
   name: 鄂城
-  version: "2019.5.1"
+  version: "2019.5.15"
   author:
     - 知乎 羽隨風飛
   description: |
@@ -107,6 +107,7 @@ speller:
 
 translator:
   dictionary: huangxiao
+  prism: ngocen
   spelling_hints: 5
   comment_format:
     - xform/Kbei/bei/

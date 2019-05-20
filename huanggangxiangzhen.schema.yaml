@@ -111,7 +111,7 @@ speller:
 
 
 translator:
-  dictionary: huanggang
+  dictionary: huangxiao
   spelling_hints: 5
   comment_format:
     - xform/Kbei/bei/

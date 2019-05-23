@@ -54,6 +54,7 @@ speller:
   algebra:
     - xform/Kbei/bei/#關愛武漢猩猩，從我做起
     - xform/([zcs])h/$1/
+    - xform/mu/mong/
     - derive/re/nge/#熱惹兩字
     - xform/re/yve/
     - xform/yven/ngen/
@@ -110,6 +111,7 @@ translator:
   prism: ngocen
   spelling_hints: 5
   comment_format:
+    - xform/mu/mong/
     - xform/Kbei/bei/
     - xform/([zcs])h/$1/
     - xform/rv/yu/
@@ -139,6 +141,7 @@ reverse_lookup:
   suffix: "'"
   tips: 〔反查〕
   preedit_format:
+    - xform/mu/mong/
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/

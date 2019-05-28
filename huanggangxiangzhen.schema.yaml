@@ -68,7 +68,7 @@ speller:
 
 #容錯（變體類型）
     - derive/re/rve/
-    - derive/rang/rvang/
+    - xform/rven/rvn/
     - derive/fong/hong/
     - derive/^hong/fong/
     - derive/^hu([12345])/fu/

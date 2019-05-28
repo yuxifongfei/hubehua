@@ -68,7 +68,7 @@ speller:
 
 #容錯（變體類型）
     - derive/re/rve/
-    - derive/rang/rvang/
+    - xform/rven/rvn/
     - derive/([zcs])h/$1/# 模糊平翘
     - derive/([gkhdtlnzcs])o/$1uo/# 模糊uo/o
     - xform/nguo/ngo/# 模糊uo/o

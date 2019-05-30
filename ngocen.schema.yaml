@@ -63,7 +63,6 @@ speller:
     - xform/ngi/ri/
 #黃孝ei——i
     - derive/nei/ni/
-    - xform/nei/lei/
     - derive/ei/ij/
     - xform/bij1/bei1/
     - xform/fi/fei/
@@ -72,6 +71,7 @@ speller:
     - xform/cij/qi/
     - xform/wij/wei/
     - xform/ij/i/
+    - xform/nei/lei/
 #黃孝ei——i
 
 #容錯（變體類型）
@@ -105,7 +105,7 @@ speller:
     - derive/un/ub/
     - derive/vn/vm/
     - derive/vn/vb/
-
+    - derive/en/wn/
 
 translator:
   dictionary: huangxiao

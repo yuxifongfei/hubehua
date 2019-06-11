@@ -373,8 +373,8 @@ import_tables:
 日	ri2
 間兩日	gan1 liang3 ri2
 日姐姐	ri2 jie3 jie3
-今日	zen1 ri6
-今日	jin1 ri6
+今日	zen1 ri2
+今日	jin1 ri2
 明日	men2 ri2
 明日	min2 ri2
 前日	qie2 ri2
@@ -2502,7 +2502,7 @@ import_tables:
 蘼	mi3
 漞	mi2
 別	bie2
-彆	bie4
+彆	bie2
 憋	bie1
 鱉	bie1
 癟	bie3
@@ -9361,8 +9361,8 @@ import_tables:
 麼事	mo3 si	1000000
 麼鬼		10000
 麼屄
-麼樣	mo3 yang5	1000000
-麼樣	mo3 ang5		1000000
+麼樣	mo3 yang4	1000000
+麼樣	mo3 ang4		1000000
 幾多		10000
 做麼事		10000
 為麼事		10000
@@ -9374,12 +9374,12 @@ import_tables:
 麽嘛昝	mo3 ma3 za3	10000
 幾嘛昝	ji3 ma3 za3	10000
 幾滿	ji3 man3	10000
-下是	ha5 shi5	10000
-曉得	xiao3 de6
-那邊	lai5 bian1	10000
-那嘛	la5 ma3	10000
-那嘛昝	la5 ma3 za3	10000
-冒得	mao5 de6	10000
+下是	ha4 shi4	10000
+曉得	xiao3 de2
+那邊	lai4 bian1	10000
+那嘛	la4 ma3	10000
+那嘛昝	la4 ma3 za3	10000
+冒得	mao4 de2	10000
 沒	me4	2
 沒得	me4 de2
 苕豬		1000000
@@ -9494,7 +9494,7 @@ import_tables:
 裸	go3	10000
 聒	go2	10000
 羾	gong4	10000
-嚙	nge5	10000
+嚙	nge4	10000
 瘕	ha1	10000
 搳	ha1	10000
 傻	ha3	2

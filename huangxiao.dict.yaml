@@ -343,11 +343,11 @@ import_tables:
 間兩日	gan1 liang3 ri6
 日姐姐	ri6 jie3 jie3
 日	ri6
-今日	zen1 ri6
+今日	zhen1 ri6
 今日	jin1 ri6
 明日	men2 ri6
 明日	min2 ri6
-前日	qie2 ri6
+前日	qie6 ri6
 前日	qian2 ri6
 去日	qv4 ri6
 重睹天日	chong2 dou3 tian1 ri6
@@ -2182,6 +2182,7 @@ import_tables:
 斑	ban1
 扮	ban5
 拌	ben5
+拌	ban5
 坂	ban5
 坂	ban3
 扳	ban1
@@ -9646,10 +9647,10 @@ import_tables:
 撏	qian2	10000
 戧	qiang1	7000
 帩	qiao4	7000
-前日	qie2 er6
+前日	qie6 er6
 前日	qian2 er6
 前子	qian2 zi3
-前子	qie2 zi3
+前子	qie6 zi3
 䠗	qiu4	10000
 鋊	rv5	7000
 擩	rv5	7000
@@ -9699,10 +9700,10 @@ import_tables:
 翳	yi4	7000
 𢷍	yin4	7000
 灒	zan4	7000
-今日	zen1 er6
+今日	zhen1 er6
 今日	jin1 er6
 今子	jin1 zi3
-今子	zen1 zi3
+今子	zhen1 zi3
 甑	zen4	7000
 鮓	zha3	7000
 㩟	zhai5	7000

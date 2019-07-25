@@ -2424,7 +2424,7 @@ import_tables:
 批	pi1
 批	pei1
 劈	pi6
-匹	pi3
+匹	pi6
 披	pi3
 脾	pi2
 裨	bi1
@@ -3394,7 +3394,7 @@ import_tables:
 嶋	dao3
 套	tao4
 陶	tao2
-濤	tao1
+濤	tao2
 逃	tao2
 桃	tao2
 討	tao3
@@ -3405,7 +3405,7 @@ import_tables:
 萄	tao2
 饕	tao1
 老	lao3
-撈	lao1
+撈	lao2
 勞	lao2
 牢	lao2
 佬	lao3
@@ -3794,6 +3794,7 @@ import_tables:
 懶	lan3
 覧	lan3
 男	lan2
+灤	lan2
 難	lan2
 南	lan2
 楠	lan2

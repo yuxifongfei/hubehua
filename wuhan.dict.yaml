@@ -1,7 +1,7 @@
 ﻿
 ---
 name: wuhan
-version: "2019.5.15"
+version: "2020.1.4"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -2667,6 +2667,7 @@ nia	nia3
 平	pin2
 瓶	pin2
 屏	pin2
+屏	bin3
 評	pin2
 凴	pin2
 萍	pin2

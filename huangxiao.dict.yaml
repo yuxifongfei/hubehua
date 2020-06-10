@@ -1,7 +1,7 @@
 ﻿
 ---
 name: huangxiao
-version: "2020.1.4"
+version: "2020.6.10"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -3093,7 +3093,7 @@ T恤	t xv6
 喔	wo
 窩	wo1
 沃	wo6
-握	wo6
+握	wu6
 臥	wo5
 臥	ngo5
 渦	wo1
@@ -4886,6 +4886,7 @@ T恤	t xv6
 九下	jiu3 ha5
 十下	shi2 ha5
 夏	xia5
+罅	xia4
 瞎	xia6
 瞎	ha6	2
 瞎子	ha6 zi3
@@ -5471,7 +5472,7 @@ T恤	t xv6
 廉	lian2
 憐	lian2
 帘	lian2
-斂	lian3
+斂	lian5
 漣	lian2
 鐮	lian2
 濂	lian2
@@ -6295,6 +6296,7 @@ T恤	t xv6
 烏	wu1
 物	wu6
 屋	wu6
+嫵	wu3
 吾	wu2
 伍	wu3
 霧	wu5
@@ -7705,6 +7707,7 @@ T恤	t xv6
 賾	ze6
 這	zhe4
 者	zhe3
+啫	zhe3
 折	zhe6
 哲	zhe6
 遮	zhe1
@@ -8191,7 +8194,7 @@ T恤	t xv6
 蟶	chen1
 塍	chen2
 琤	cen1
-呻	sen1
+呻	shen1
 森	sen1
 椮	sen1
 槮	sen1
@@ -9350,8 +9353,8 @@ T恤	t xv6
 在世	zai5 shi4
 在内	zai5 nei5
 在外	zai5 wai5
-在握	zai5 wo6
-勝券在握	shen4 qvan4 zai5 wo6
+在握	zai5 wu6
+勝券在握	shen4 qvan4 zai5 wu6
 自在	zi5 zai5
 在於	zai5 rv2
 在意	zai5 yi4

@@ -1,7 +1,7 @@
 ﻿
 ---
 name: wuhan
-version: "2021.1.27"
+version: "2021.2.15"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -7411,7 +7411,7 @@ nia	nia3
 鎖	so3
 嗦	so1
 🔒	so3
-縮	so2
+縮	sou2
 梭	so1
 唆	so1
 瑣	so3
